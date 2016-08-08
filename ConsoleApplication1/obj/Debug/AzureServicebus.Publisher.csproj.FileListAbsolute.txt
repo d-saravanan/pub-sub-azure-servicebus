@@ -1,0 +1,8 @@
+c:\users\saran\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\AzureServicebus.Publisher.exe.config
+c:\users\saran\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\AzureServicebus.Publisher.exe
+c:\users\saran\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\AzureServicebus.Publisher.pdb
+c:\users\saran\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\Microsoft.ServiceBus.dll
+c:\users\saran\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\Microsoft.ServiceBus.xml
+c:\users\saran\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\AzureServicebus.Publisher.csprojResolveAssemblyReference.cache
+c:\users\saran\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\AzureServicebus.Publisher.exe
+c:\users\saran\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\AzureServicebus.Publisher.pdb

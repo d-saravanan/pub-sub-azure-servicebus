@@ -1,0 +1,8 @@
+c:\users\saran\documents\visual studio 2015\Projects\ConsoleApplication1\AzureServicebus.Consumer\bin\Debug\AzureServicebus.Consumer.exe.config
+c:\users\saran\documents\visual studio 2015\Projects\ConsoleApplication1\AzureServicebus.Consumer\bin\Debug\AzureServicebus.Consumer.exe
+c:\users\saran\documents\visual studio 2015\Projects\ConsoleApplication1\AzureServicebus.Consumer\bin\Debug\AzureServicebus.Consumer.pdb
+c:\users\saran\documents\visual studio 2015\Projects\ConsoleApplication1\AzureServicebus.Consumer\bin\Debug\Microsoft.ServiceBus.dll
+c:\users\saran\documents\visual studio 2015\Projects\ConsoleApplication1\AzureServicebus.Consumer\bin\Debug\Microsoft.ServiceBus.xml
+c:\users\saran\documents\visual studio 2015\Projects\ConsoleApplication1\AzureServicebus.Consumer\obj\Debug\AzureServicebus.Consumer.csprojResolveAssemblyReference.cache
+c:\users\saran\documents\visual studio 2015\Projects\ConsoleApplication1\AzureServicebus.Consumer\obj\Debug\AzureServicebus.Consumer.exe
+c:\users\saran\documents\visual studio 2015\Projects\ConsoleApplication1\AzureServicebus.Consumer\obj\Debug\AzureServicebus.Consumer.pdb
