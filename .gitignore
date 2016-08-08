@@ -1,0 +1,10 @@
+/packages
+
+/ConsoleApplication1/bin
+/ConsoleApplication1/obj
+/AzureServicebus.Consumer/bin
+/AzureServicebus.Consumer/obj
+/Azure.ServiceBus.Wrapper/bin
+/Azure.ServiceBus.Wrapper/obj
+
+
