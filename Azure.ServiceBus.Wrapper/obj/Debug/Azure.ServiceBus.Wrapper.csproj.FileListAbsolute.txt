@@ -1,7 +1,0 @@
-c:\users\saran\documents\visual studio 2015\Projects\ConsoleApplication1\Azure.ServiceBus.Wrapper\bin\Debug\Azure.ServiceBus.Wrapper.dll
-c:\users\saran\documents\visual studio 2015\Projects\ConsoleApplication1\Azure.ServiceBus.Wrapper\bin\Debug\Azure.ServiceBus.Wrapper.pdb
-c:\users\saran\documents\visual studio 2015\Projects\ConsoleApplication1\Azure.ServiceBus.Wrapper\bin\Debug\Microsoft.ServiceBus.dll
-c:\users\saran\documents\visual studio 2015\Projects\ConsoleApplication1\Azure.ServiceBus.Wrapper\bin\Debug\Microsoft.ServiceBus.xml
-c:\users\saran\documents\visual studio 2015\Projects\ConsoleApplication1\Azure.ServiceBus.Wrapper\obj\Debug\Azure.ServiceBus.Wrapper.dll
-c:\users\saran\documents\visual studio 2015\Projects\ConsoleApplication1\Azure.ServiceBus.Wrapper\obj\Debug\Azure.ServiceBus.Wrapper.pdb
-c:\users\saran\documents\visual studio 2015\Projects\ConsoleApplication1\Azure.ServiceBus.Wrapper\obj\Debug\Azure.ServiceBus.Wrapper.csprojResolveAssemblyReference.cache

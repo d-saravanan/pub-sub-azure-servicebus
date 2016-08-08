@@ -1,0 +1,10 @@
+ReadMe
+*****
+
+This is a sample app that is written to demonstrate the capability of the ServiceBus to be used in a pub/sub environment.
+
+This has a wrapper for the service bus api calls with some pluggable abstractions.
+
+I have planned to prepare a full list of functions after the current task of porting this from .net 4.6 to .net core 1.0 is completed.
+
+c
